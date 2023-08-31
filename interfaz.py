@@ -14,7 +14,7 @@ def obtenerDesc():
             print("dato erroneo")
 
 ventana = tkinter.Tk()
-ventana.title("sasayat¿a s")
+ventana.title("titulooooo")
 
 #titulo
 titulo = ttk.Label(ventana,text="ponga el codigo", font="Papyrus")
